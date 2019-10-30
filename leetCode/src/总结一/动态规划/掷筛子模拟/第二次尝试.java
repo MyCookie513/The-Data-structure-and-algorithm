@@ -1,6 +1,4 @@
-package Leetcode.模拟.小七.掷筛子模拟;
-
-import java.util.Arrays;
+package 总结一.动态规划.掷筛子模拟;
 
 public class 第二次尝试 {
 

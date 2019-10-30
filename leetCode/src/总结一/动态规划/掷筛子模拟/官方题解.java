@@ -1,4 +1,4 @@
-package Leetcode.模拟.小七.掷筛子模拟;
+package 总结一.动态规划.掷筛子模拟;
 
 
 
